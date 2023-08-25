@@ -9,6 +9,6 @@ Notable changelist:
 - Cypress Axe checks added
 
 Notable issues:
--localhost as baseurl
+- localhost as baseurl
 
 Richard Krajnyik
