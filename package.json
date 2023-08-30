@@ -1,10 +1,19 @@
 {
   "devDependencies": {
+    "@playwright/test": "^1.37.1",
     "axe-core": "^4.7.2",
     "cypress": "^12.17.4",
     "cypress-axe": "^1.4.0"
   },
   "dependencies": {
-    "help": "^3.0.2"
-  }
+    "help": "^3.0.2",
+    "playwright": "^1.37.1"
+  },
+  "name": "spring-petclinic-fork",
+  "description": "[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/spring-projects/spring-petclinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=7517918)",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
 }
